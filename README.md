@@ -6,7 +6,7 @@ I have completed my education from lalganj,raebareli and the name of the school 
 ### EDUCATION RELATED -
 I have done 10 cgpa in my school and thought its because of my knowledge. i am learning cyber security and digital forensics.
 
-
+### BADGES-
 https://github-readme-stats.vercel.app/api/top-langs/?username=payal-06&theme=blue-green
 
 https://github-readme-stats.vercel.app/api?username=payal-06&show_icons=true
