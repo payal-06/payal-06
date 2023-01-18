@@ -1,5 +1,4 @@
-## Hola, I'm Payal👋 <img src=file:///C:/Users/Hp/Downloads/hello.png" height="32px">
-<div align="center"> .
+## Hola, I'm Payal👋  .
 
 <br/>
 <!--<br/>-->
