@@ -162,7 +162,7 @@ class CSE_Student:
     def __init__(self):
         self.name       = "Payal Singh"
         self.role       = "Student"
-        self.contact    = "payalsinghrathore11@gmail.com"
+        self.contact    = payal.singh2020@vitbhopal.ac.in"
         self.work       = "I'm a Student, Web developer,Android Developer and Cyber Security enthusiast!!"
         self.learning   = "Android development"
         
