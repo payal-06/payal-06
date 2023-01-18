@@ -1,5 +1,5 @@
-## Hola, I'm Payal👋 
-C:\Users\Hp\Downloads\hello.png .
+## Hola, I'm Payal👋 <img src=file:///C:/Users/Hp/Downloads/hello.png" height="32px">
+<div align="center"> .
 
 <br/>
 <!--<br/>-->
