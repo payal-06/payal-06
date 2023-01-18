@@ -140,13 +140,13 @@
 <table width="100%"> 
   <tr>
     <td width="40%">
-      <img src="https://github-readme-stats.vercel.app/api?username=payal-06&show_icons=true&theme=algolia">
+      <img src="https://github-readme-stats.vercel.app/api?username=jayshree24-web&show_icons=true&theme=algolia">
     </td>
     <td width="30%">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=payal-06&layout=compact&langs_count=8&theme=algolia">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jayshree24-web&layout=compact&langs_count=8&theme=algolia">
     </td>
     <td width="30%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=payal-06&amp;langs_count=8&amp;theme=algolia">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jayshree24-web&amp;langs_count=8&amp;theme=algolia">
     </td>
   </tr>
 </table>
