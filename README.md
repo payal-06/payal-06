@@ -1,5 +1,5 @@
 ## Hola, I'm Payal👋 
-C:\Users\Hp\Downloads\hello.png.
+C:\Users\Hp\Downloads\hello.png .
 
 <br/>
 <!--<br/>-->
