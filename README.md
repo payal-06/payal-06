@@ -37,7 +37,6 @@
     <img alt="Java" src="https://img.shields.io/badge/Java%20-%2300599C.svg?logo=Java&logoColor=white">
   </a>
   &emsp;
-  
    <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
   </a>
@@ -45,7 +44,7 @@
   <a href="https://dart.dev/"  target="_blank">
     <img alt="Dart" src="https://img.shields.io/badge/Dart%20-%2314354C.svg?logo=dart&logoColor=white">
   </a>
-  &emsp;
+ 
 </p>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
