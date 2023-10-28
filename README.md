@@ -10,10 +10,9 @@
 
 - 🌱 Currently learning DSA 🤣.
 - 👯 I’m looking to collaborate with android developer.
-- 🥅 2023-24 Goals: Improve my skills as a SWE.
 - 💻 Learning something new everyday.
-- 🔭 Looking for ML and Deep Learning projects.
-- Community is :heart:. Code blooded animal :octocat:,  1xEngineer :stuck_out_tongue: and :coffee: lover. 
+- 🔭 Looking for flutter, ML and Deep Learning projects.
+- Community is :heart:. Code blooded animal :octocat:,  1xEngineer :stuck_out_tongue: and 🍵: lover. 
 - VIT BHOPAL '24
 <br>
 <br> 
@@ -44,9 +43,7 @@
   </a>
       &emsp;
  
-      <a href="https://dart.dev/" target="_blank">
-    <img alt="Dart" src="https://img.shields.io/badge/Dart%20-%2314354C.svg?logo=dart&logoColor=white">
-  </a>
+     
   &emsp;
 
 </p>
