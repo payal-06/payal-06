@@ -1,4 +1,4 @@
-## Hey, I'm [Payal](https://payal-06.github.io/) <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+## Hey, I'm [Payal](https://payal-06.github.io/) <img src="https://giphy.com/gifs/hello-Cmr1OMJ2FN0B2" width="50">
 
 <br/>
 <!--<br/>-->
