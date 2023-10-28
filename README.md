@@ -148,17 +148,26 @@
 
 class CSE_Student:
     def __init__(self):
-        self.name       = "Payal Singh"
-        self.role       = "Student"
-        self.contact    = payal.singh2020@vitbhopal.ac.in"
-        self.work       = "I'm a Student, Web developer,Android Developer and Cyber Security enthusiast!!"
-        self.learning   = "Android development"
-        
-    
-    def getLocation():
-        return localhost:8080()
+        self.name = "Payal Singh"
+        self.role = "Student"
+        self.contact = "payal.singh2020@vitbhopal.ac.in"
+        self.work = "I'm a Student, Web developer, Android Developer, and Cyber Security enthusiast!!"
+        self.learning = "Android development"
 
-me = Engineering Student 😅
+    def getLocation(self):
+        return "localhost:8080"
+
+# Create an instance of the CSE_Student class
+me = CSE_Student()
+
+# Output the information
+print(f"Name: {me.name}")
+print(f"Role: {me.role}")
+print(f"Contact: {me.contact}")
+print(f"Work: {me.work}")
+print(f"Learning: {me.learning}")
+print(f"Location: {me.getLocation()}")
+😅
 ```
 <!--<div align="center">
 
