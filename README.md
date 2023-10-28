@@ -95,8 +95,7 @@
   &emsp;
   <a href="https://github.com/"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github"></a>
   &emsp;
-  <a href=""><img alt="Markdown" src="https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown"></a>
-  &emsp;
+  
 </details>
 
 <details>
