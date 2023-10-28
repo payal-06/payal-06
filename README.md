@@ -1,4 +1,4 @@
-## Hey, I'm [Payal](https://payal-06.github.io/) <img src="https://images6.fanpop.com/image/photos/37800000/-Hello-penguins-of-madagascar-37800672-500-500.gif" width="50">
+## Hey, I'm [Payal](https://payal-06.github.io/)    <img src="https://images6.fanpop.com/image/photos/37800000/-Hello-penguins-of-madagascar-37800672-500-500.gif" width="50">
 
 <br/>
 <!--<br/>-->
