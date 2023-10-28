@@ -38,7 +38,7 @@
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
       &emsp;
   <a href="https://dart.dev/"  target="_blank">
-    <img alt="Dart" src=rc="https://img.shields.io/badge/Dart%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"> </a>
+    <img alt="Dart" src="https://img.shields.io/badge/Dart%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"> </a>
   
  
 </p>
