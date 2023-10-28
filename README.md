@@ -42,7 +42,9 @@
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
   </a>
       &emsp;
- 
+  <a href="https://dart.dev/"  target="_blank">
+    <img alt="Dart" src="https://img.shields.io/badge/Dart%20-%2314354C.svg?logo=dart&logoColor=white">
+  </a>
      
   &emsp;
 
