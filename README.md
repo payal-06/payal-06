@@ -61,6 +61,24 @@
 </details>
 
 
+
+<details>
+  <summary><b>Servers, Web Hosting and NAS based storage.</b></summary>
+   &emsp;
+  <a href="https://www.debian.org/"><img alt="Debian" src="https://img.shields.io/badge/Debain%20Server-%23327FC7.svg?style=flat&logo=Debian&logoColor=white"></a>
+   &emsp;
+   <a href="https://www.Ubuntu.org/"><img alt="Debian" src="https://img.shields.io/badge/Ubuntu%20Server-%23327FC7.svg?style=flat&logo=Ubuntu&logoColor=white"></a>
+   &emsp;
+  <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&logo=github&logoColor=white"></a>
+   &emsp;
+  <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white"></a>
+  &emsp;
+  <a href="https://www.nginx.com/"><img alt="Nginx" src="https://img.shields.io/badge/Nginx%20Server-%23327FC7.svg?style=flat&logo=Nginx&logoColor=white"></a>
+  &emsp;
+  </details>
+
+
+  
 <details>
   <summary><b>Graphics designing.</b></summary>
   &emsp;
