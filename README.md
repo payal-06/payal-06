@@ -167,7 +167,7 @@ print(f"Contact: {me.contact}")
 print(f"Work: {me.work}")
 print(f"Learning: {me.learning}")
 print(f"Location: {me.getLocation()}")
-😅
+
 ```
 <!--<div align="center">
 
