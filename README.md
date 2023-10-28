@@ -69,7 +69,7 @@
   &emsp;
   <a href="https://www.canva.com/"><img alt="Canva" src="https://img.shields.io/badge/Canva-%23327FC7.svg?style=flat&logo=canva&logoColor=white"></a>
   &emsp;
-
+<a href="https://www.figma.com/"><img alt="Figma" src="https://img.shields.io/badge/Figma-%23327FC7.svg?style=flat&logo=canva&logoColor=white"></a>
 
 </details>
 
